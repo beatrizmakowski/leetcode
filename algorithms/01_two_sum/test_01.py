@@ -1,4 +1,4 @@
-from solution import Solution
+from solution_01 import Solution
 
 solution = Solution()
 
